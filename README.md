@@ -1,3 +1,9 @@
+### URA
+This fork is part of an Undergraduate Research Assistantship at the University of Waterloo, for the Vision and Image Processing Lab under the supervision of Alexander Wong and Mohammad Javad Shafiee.
+It is a collection of object detection models and scripts for testing them side-by-side for comparison.
+
+TODO: Add commands for execution of test scripts.
+
 # py-R-FCN
 R-FCN: Object Detection via Region-based Fully Convolutional Networks
 
