@@ -124,6 +124,7 @@ Any NVIDIA GPU with 6GB or larger memory is OK(4GB is enough for ResNet-50).
     cd $RFCN_ROOT/lib
     make
     ```
+If you are getting errors at this step such as `error: pycocotools/_mask.c: No such file or directory`, it can be resolved manually by running `cython _mask.pyx` on the .pyx file corresponding to each error's .c
 
 4. Build Caffe and pycaffe
     ```Shell
